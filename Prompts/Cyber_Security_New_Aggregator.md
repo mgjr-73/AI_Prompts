@@ -8,7 +8,7 @@ Then set the frequency. Mine gathers the information daily at 4 A.M.
 
 <kbd><img width="712" height="802" alt="image" src="https://github.com/user-attachments/assets/ae179967-9603-4a5a-882d-18c6d7b3dc1f" /></kbd>
 
-Does this mean you need to have your computer on 24/7? No. It will send the news to your inbox as soon as you open your Claude desktop after the computer is turned on. If you don't want this limitation, you can move the schedule to the cloud.
+Does this mean you need to have your computer on 24/7? No. It will send the news to your inbox as soon as you open your Claude desktop after the computer is turned on. If you don't want this limitation, you can move the scheduled task to the cloud.
 
 <kbd><img width="265" height="147" alt="image" src="https://github.com/user-attachments/assets/e870d86d-7586-451b-a256-1f656ab84afb" /></kbd>
 
